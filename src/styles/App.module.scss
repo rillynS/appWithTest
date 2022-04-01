@@ -1,0 +1,11 @@
+@import './vars/_variable.scss';
+@import './Auth.module.scss';
+.App{
+    background:linear-gradient(170deg,$based-color 0%,$white-red 100%);
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

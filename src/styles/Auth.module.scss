@@ -1,0 +1,11 @@
+@import './vars/variable';
+.Auth{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    height: 150px;
+    background: $secondary-color;
+    border-radius: 5px;
+}
